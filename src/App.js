@@ -1,4 +1,6 @@
-import React, { Component } from 'react';
+dgw
+fefe
+fimport React, { Component } from 'react';
 import ThreadDisplay from './ThreadDisplay/components/ThreadDisplay';
 import firebase from 'firebase/app';
 import 'firebase/database';
